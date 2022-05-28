@@ -1,0 +1,10 @@
+**/*.pyc
+.idea/
+tf_files/flower_photos/
+**/*~
+gradle*
+libs/
+local.properties
+android.iml
+.gradle/
+android/assets/*
